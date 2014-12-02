@@ -26,6 +26,6 @@
    * [camel-jpa](components/camel-jpa.md)
 * [Cloud](cloud/README.md)
    * [AWS Elastic Bean Stalk](cloud)
-   * OpenShift
+   * [OpenShift](cloud/openshift.md)
 * [Developer Guide](developer/README.md)
 
